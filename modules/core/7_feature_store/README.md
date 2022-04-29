@@ -21,5 +21,4 @@ Much of the content from the following sections will be derived from the MLRun F
 - [7.5 Engines](7.5_engines.ipynb) - Showcase of various engines to ingest data (i.e. Pandas, Spark, Storey)
 - [7.6 Transformations](7.6_transformations.ipynb) - Showcase data transformations in batch and real-time
 - [7.7 Aggregations](7.7_aggregations.ipynb) - Showcase time-series aggregations in batch and real-time
-- WIP
-- [7.X Ingestion Methods](7.6_ingestion_methods) - Showcase various ingestion methods (i.e. Ad-hoc, Job, Real-Time)
+- [7.8 Ingestion Methods](7.8_ingestion_methods.ipynb) - Showcase various ingestion methods (i.e. Ad-hoc, Job, Real-Time)

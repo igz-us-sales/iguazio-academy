@@ -1,6 +1,6 @@
-# Core 1 Projects and Code to Function
+# Core 1 MLRun Basics
 
-This module will cover the basic concepts of MLRun projects and how to create a microservice out of a piece of Python code using high level syntax.
+This module will cover the basic concepts of MLRun such as projects and how to create a microservice out of a piece of Python code using high level syntax.
 
 ---
 
@@ -14,6 +14,6 @@ Much of the content from the following sections will be derived from the MLRun F
 ---
 
 ### Table of Contents
-- [1.1 Basic Concepts](1.1_basic_concepts.ipynb) - Introduce basic concepts of projects and MLRun functions
+- [1.1 Concepts](1.1_concepts.ipynb) - Introduce basic concepts of MLRun such as projects, functions, and workflows
 - [1.2 Code to Microservice](1.2_code_to_microservice.ipynb) - How to create a microservice out of a piece of Python code
-- [1.3 MLRun Projects](1.3_mlrun_projects.ipynb) - Introduce the MLRun project and some properties
+- [1.3 MLRun Projects](1.3_mlrun_projects.ipynb) - Overview of the MLRun project and some properties

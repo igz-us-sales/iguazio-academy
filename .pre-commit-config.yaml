@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: clean-notebook
+        name: Clear Jupyter Notebook outputs
+        description: Ensures that all execution outputs in a Jupyter notebook are clear
+        language: script
+        pass_filenames: false
+        entry: /bin/sh .hooks/notebook-clear.sh
